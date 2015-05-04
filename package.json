@@ -1,0 +1,14 @@
+{
+  "name": "nodeDownloadVideo",
+  "version": "1.0.0",
+  "description": "下载各个视频网站的视频",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "parseVideo": "^1.0.0"
+  },
+  "author": "liuguanyu",
+  "license": "BSD"
+}
