@@ -1,2 +1,3 @@
 # nodeDownloadVideo
-下载视频网站的视频
+下载download.txt指定的视频网站的视频,并转换成mov格式
+需要在linux环境下运行，并安装有ffmpeg
